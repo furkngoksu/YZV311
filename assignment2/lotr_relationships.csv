@@ -1,0 +1,163 @@
+Character1,Character2,Relationship
+Frodo Baggins,Samwise Gamgee,Friendship
+Frodo Baggins,Gandalf,Friendship
+Frodo Baggins,Aragorn,Friendship
+Frodo Baggins,Legolas,Friendship
+Frodo Baggins,Gimli,Friendship
+Frodo Baggins,Boromir,Friendship
+Frodo Baggins,Meriadoc Brandybuck,Friendship
+Frodo Baggins,Peregrin Took,Friendship
+Frodo Baggins,Saruman,Enmity
+Frodo Baggins,Gollum,Enmity
+Frodo Baggins,Galadriel,Friendship
+Frodo Baggins,Elrond,Friendship
+Frodo Baggins,Arwen,Friendship
+Frodo Baggins,Éomer,Friendship
+Frodo Baggins,Éowyn,Friendship
+Frodo Baggins,Faramir,Friendship
+Frodo Baggins,Denethor,Enmity
+Frodo Baggins,Bilbo Baggins,Family
+Frodo Baggins,Treebeard,Friendship
+Frodo Baggins,Gríma Wormtongue,Enmity
+Frodo Baggins,Radagast,Friendship
+Frodo Baggins,Tom Bombadil,Friendship
+Samwise Gamgee,Gandalf,Friendship
+Samwise Gamgee,Aragorn,Friendship
+Samwise Gamgee,Legolas,Friendship
+Samwise Gamgee,Gimli,Friendship
+Samwise Gamgee,Boromir,Friendship
+Samwise Gamgee,Meriadoc Brandybuck,Friendship
+Samwise Gamgee,Peregrin Took,Friendship
+Samwise Gamgee,Saruman,Enmity
+Samwise Gamgee,Gollum,Enmity
+Samwise Gamgee,Galadriel,Friendship
+Samwise Gamgee,Elrond,Friendship
+Samwise Gamgee,Arwen,Friendship
+Samwise Gamgee,Éomer,Friendship
+Samwise Gamgee,Éowyn,Friendship
+Samwise Gamgee,Faramir,Friendship
+Samwise Gamgee,Denethor,Enmity
+Samwise Gamgee,Treebeard,Friendship
+Samwise Gamgee,Gríma Wormtongue,Enmity
+Samwise Gamgee,Radagast,Friendship
+Samwise Gamgee,Tom Bombadil,Friendship
+Gandalf,Aragorn,Friendship
+Gandalf,Legolas,Friendship
+Gandalf,Gimli,Friendship
+Gandalf,Boromir,Friendship
+Gandalf,Meriadoc Brandybuck,Friendship
+Gandalf,Peregrin Took,Friendship
+Gandalf,Saruman,Enmity
+Gandalf,Gollum,Enmity
+Gandalf,Galadriel,Friendship
+Gandalf,Elrond,Friendship
+Gandalf,Arwen,Friendship
+Gandalf,Éomer,Friendship
+Gandalf,Éowyn,Friendship
+Gandalf,Théoden,Friendship
+Gandalf,Faramir,Friendship
+Gandalf,Denethor,Enmity
+Gandalf,Treebeard,Friendship
+Gandalf,Gríma Wormtongue,Enmity
+Gandalf,Radagast,Friendship
+Aragorn,Legolas,Friendship
+Aragorn,Gimli,Friendship
+Aragorn,Boromir,Friendship
+Aragorn,Meriadoc Brandybuck,Friendship
+Aragorn,Peregrin Took,Friendship
+Aragorn,Saruman,Enmity
+Aragorn,Gollum,Enmity
+Aragorn,Galadriel,Friendship
+Aragorn,Elrond,Friendship
+Aragorn,Arwen,Family
+Aragorn,Éomer,Friendship
+Aragorn,Éowyn,Friendship
+Aragorn,Théoden,Friendship
+Aragorn,Faramir,Friendship
+Aragorn,Denethor,Enmity
+Aragorn,Gríma Wormtongue,Enmity
+Legolas,Gimli,Friendship
+Legolas,Boromir,Friendship
+Legolas,Meriadoc Brandybuck,Friendship
+Legolas,Peregrin Took,Friendship
+Legolas,Saruman,Enmity
+Legolas,Gollum,Enmity
+Legolas,Galadriel,Friendship
+Legolas,Elrond,Friendship
+Legolas,Arwen,Friendship
+Legolas,Éomer,Friendship
+Legolas,Éowyn,Friendship
+Legolas,Théoden,Friendship
+Legolas,Faramir,Friendship
+Legolas,Denethor,Enmity
+Legolas,Gríma Wormtongue,Enmity
+Gimli,Boromir,Friendship
+Gimli,Meriadoc Brandybuck,Friendship
+Gimli,Peregrin Took,Friendship
+Gimli,Saruman,Enmity
+Gimli,Gollum,Enmity
+Gimli,Galadriel,Friendship
+Gimli,Elrond,Friendship
+Gimli,Arwen,Friendship
+Gimli,Éomer,Friendship
+Gimli,Éowyn,Friendship
+Gimli,Théoden,Friendship
+Gimli,Faramir,Friendship
+Gimli,Denethor,Enmity
+Gimli,Treebeard,Friendship
+Gimli,Gríma Wormtongue,Enmity
+Boromir,Meriadoc Brandybuck,Friendship
+Boromir,Peregrin Took,Friendship
+Boromir,Saruman,Enmity
+Boromir,Gollum,Enmity
+Boromir,Galadriel,Friendship
+Boromir,Elrond,Friendship
+Boromir,Arwen,Friendship
+Boromir,Faramir,Family
+Boromir,Denethor,Family
+Boromir,Gríma Wormtongue,Enmity
+Meriadoc Brandybuck,Peregrin Took,Friendship
+Meriadoc Brandybuck,Saruman,Enmity
+Meriadoc Brandybuck,Gollum,Enmity
+Meriadoc Brandybuck,Galadriel,Friendship
+Meriadoc Brandybuck,Elrond,Friendship
+Meriadoc Brandybuck,Arwen,Friendship
+Meriadoc Brandybuck,Éomer,Friendship
+Meriadoc Brandybuck,Éowyn,Friendship
+Meriadoc Brandybuck,Théoden,Friendship
+Meriadoc Brandybuck,Faramir,Friendship
+Meriadoc Brandybuck,Denethor,Enmity
+Meriadoc Brandybuck,Treebeard,Friendship
+Meriadoc Brandybuck,Gríma Wormtongue,Enmity
+Meriadoc Brandybuck,Tom Bombadil,Friendship
+Peregrin Took,Saruman,Enmity
+Peregrin Took,Gollum,Enmity
+Peregrin Took,Galadriel,Friendship
+Peregrin Took,Elrond,Friendship
+Peregrin Took,Arwen,Friendship
+Peregrin Took,Éomer,Friendship
+Peregrin Took,Éowyn,Friendship
+Peregrin Took,Théoden,Friendship
+Peregrin Took,Faramir,Friendship
+Peregrin Took,Denethor,Enmity
+Peregrin Took,Treebeard,Friendship
+Peregrin Took,Gríma Wormtongue,Enmity
+Peregrin Took,Tom Bombadil,Friendship
+Saruman,Galadriel,Enmity
+Saruman,Elrond,Enmity
+Saruman,Arwen,Enmity
+Saruman,Treebeard,Enmity
+Saruman,Gríma Wormtongue,Friendship
+Saruman,Radagast,Enmity
+Gollum,Galadriel,Enmity
+Gollum,Elrond,Enmity
+Galadriel,Elrond,Family
+Arwen,Éowyn,Friendship
+Éomer,Éowyn,Family
+Éomer,Théoden,Family
+Éomer,Faramir,Friendship
+Éomer,Gríma Wormtongue,Enmity
+Éowyn,Théoden,Family
+Éowyn,Gríma Wormtongue,Enmity
+Théoden,Gríma Wormtongue,Enmity
+Faramir,Denethor,Family
